@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I like to train machine learning models to do cool stuff 🤖🚀😎
+
 <!--
 **samuelcortinhas/samuelcortinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
